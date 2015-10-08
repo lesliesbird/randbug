@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lesliesbird",
+    "longName": "randbug",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Impact.ttf",
+                "name": "REGULAR_14",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:/ ]",
+                "file": "fonts/Impact.ttf",
+                "name": "REGULAR_30",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "randbug",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "17a3c0fa-345a-4489-9abc-a2864ef1226a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
